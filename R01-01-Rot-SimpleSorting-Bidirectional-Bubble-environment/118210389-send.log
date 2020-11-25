@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-27T20:11:40.139-0300</date>
+  <logger>GILDO MATOS MACEDO NETO</logger>
+  <level>FINE</level>
+  <message>File 118210389-GILDO MATOS MACEDO NETO.zip was received. It was sent by GILDO MATOS MACEDO NETO from IP 192.168.15.119 at 27-09-2020 20*11*40</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-27T20:44:44.414-0300</date>
+  <logger>GILDO MATOS MACEDO NETO</logger>
+  <level>FINE</level>
+  <message>File 118210389-GILDO MATOS MACEDO NETO.zip was received. It was sent by GILDO MATOS MACEDO NETO from IP 192.168.15.119 at 27-09-2020 20*44*44</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-27T20:46:49.672-0300</date>
+  <logger>GILDO MATOS MACEDO NETO</logger>
+  <level>FINE</level>
+  <message>File 118210389-GILDO MATOS MACEDO NETO.zip was received. It was sent by GILDO MATOS MACEDO NETO from IP 192.168.15.119 at 27-09-2020 20*46*49</message>
+</record>
